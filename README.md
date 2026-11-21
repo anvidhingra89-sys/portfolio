@@ -1,8 +1,6 @@
-# anvi. — Personal Portfolio
+# Anvi. — Personal Portfolio
 
 A clean, minimal personal portfolio website built with **HTML** and **CSS**. It introduces who I am, what I'm learning, and showcases my featured project, *The Food Atelier*.
-
-🔗 **Live Demo:** [YOUR-LIVE-LINK](YOUR-LIVE-LINK)
 
 ---
 
@@ -77,8 +75,8 @@ The site is static, so it can be hosted for free on **GitHub Pages**:
 
 I'm **Anvi Dhingra**, a first-year B.Tech student exploring technology, programming and web development, and building something new along the way.
 
-- GitHub: [YOUR-GITHUB-LINK](YOUR-GITHUB-LINK)
-- Email: YOUR-EMAIL
+- GitHub:(https://github.com/anvidhingra89-sys)
+- Email: anvidhingra14@gmail.com
 
 ---
 
